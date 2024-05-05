@@ -1,4 +1,4 @@
-![Screenshot 2024-05-05 101013](https://github.com/MabbuAdarsh/Figma/assets/149365583/cdec4a29-25c1-4be0-afd8-2f5e67b32652)# Ex09 Event Registration Web Application
+# Ex09 Event Registration Web Application
 ## Date:05.05.2024
 
 ## AIM:
